@@ -15,3 +15,16 @@ const goldText = document.querySelector("#goldText");
 const monsterStats = document.querySelector("#monsterStats");
 const monsterName = document.querySelector("#monsterName");
 const monsterHealthText = document.querySelector("#monsterHealth");
+
+// initialize buttons
+function goStore(){
+
+}
+
+function goCave() {
+    console.log("Going to cave.");
+  }
+  
+  function fightDragon() {
+    console.log("Fighting dragon.");
+  }
